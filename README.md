@@ -9,4 +9,5 @@ All HTML and JS codes are in the HTML_Codes file and all the JPEGs and PNGs are 
 They all need to be in a single file so that they can be accessed by the code.
 You will have to run node serverdb.js to run the website on a local host and require MongoDB to be installed in your system.
 
+A demo of all the pages will soon be put up!
 We hope you love this project!
