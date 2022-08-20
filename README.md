@@ -12,5 +12,6 @@ Do not change the name of the photos so that it is recognized by the HTML file.
 You will have to run node serverdb.js to run the website on a local host and require MongoDB to be installed in your system.
 
 A demo of how all the pages look are available in the Demo_Photos file!
+You can download the zip file that contains everything.
 
 We hope you love this project!
